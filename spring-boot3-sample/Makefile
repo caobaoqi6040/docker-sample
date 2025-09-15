@@ -1,4 +1,4 @@
-IMAGE_NAME ?= caobaoqi6040/spring-boot3-dockerize-demo
+IMAGE_NAME ?= caobaoqi6040/spring-boot3-sample
 TAG ?= latest
 
 .PHONY: build
