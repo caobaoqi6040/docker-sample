@@ -1,0 +1,12 @@
+.venv
+.ruff_cache
+
+db.sqlite3
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
